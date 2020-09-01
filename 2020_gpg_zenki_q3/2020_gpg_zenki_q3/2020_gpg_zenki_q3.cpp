@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-int allCalc()
+void allCalc()
 {
 	int first = 0;
 	int second = 0;
